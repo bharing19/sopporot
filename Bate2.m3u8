@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d6xzuvbpxv422.cloudfront.net/hls/prelims/chunks.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/main/chunks.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 http://23.98.158.204/live/abr_s-1/live/s-1/chunks.m3u8
