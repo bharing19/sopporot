@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d3bh6k6cdgaj10.cloudfront.net/hls/main/chunks.m3u8
+https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/1.m3u8?start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://23.98.158.204/live/abr_s-1/live/s-1/chunks.m3u8
+https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/2.m3u8?start=0&
