@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/1.m3u8?start=0&
+ll
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/2.m3u8?start=0&
+http://d398ck7175fu78.cloudfront.net/stream/MzE5NA==/1080p.m3u8
