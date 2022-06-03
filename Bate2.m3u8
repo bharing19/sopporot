@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
+https://o1.greenlie.org/live/btsport2-hq/chunks.m3u8?telegram@birutv?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjIgMTA6MDY6NDMgQU0maGFzaF92YWx1ZT1NYUFSckFqeHk4Mlo0U3Y4RW1rRWdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTIwMi41Mi4xNDYuMzQmc3RybV9sZW49MTY=
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 http://hls-pull-game1688.speedws.com/live/moto/playlist.m3u8?wsSession=b158ad779573f7ffe7493448-165424755056590&wsIPSercert=65f31bcd655a1d2983673f01c4797c36&wsMonitor=0
