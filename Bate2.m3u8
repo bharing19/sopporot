@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
+https://birutv.com/sport@birutv/live/bt2.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 http://hls-pull-game1688.speedws.com/live/moto/playlist.m3u8?wsSession=b158ad779573f7ffe7493448-165424755056590&wsIPSercert=65f31bcd655a1d2983673f01c4797c36&wsMonitor=0
