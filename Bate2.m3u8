@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://vdsx.glletle1.com/v3/youshi/m3_3zFNpotNh0Q0iR_480p.m3u8?dev_limit=1&user_id=42166598&app_id=com.global.brasiltvweb&app_ver=10101&client_ip=2804:4028:155:bb00:8cb1:2fc4:9d83:52be&auth_id=42166598_com.global.brasiltvweb&session_id=CcSMsarVcYgM&dev_id=c48afb21&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&main_addr=https://vdsx.glletle1.com/v3/youshi/&rst_status=0&expired=1648412181&token=26802582D7A88F993D70CD94567823F4&media_code=m3_3zFNpotNh0Q0iR_480p
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSD-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8?BONGSTREAMS=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+l
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://hls-pull-game1688.speedws.com/live/moto/playlist.m3u8?wsSession=b158ad779573f7ffe7493448-165424755056590&wsIPSercert=65f31bcd655a1d2983673f01c4797c36&wsMonitor=0
