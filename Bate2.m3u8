@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://s1.strea.ru/index_hd720/index.m3u8?rand=0.2870582436181539
+http://pull.bjptzh.com/live/moto/playlist.m3u8?wsSession=b158ad779573f7ffe7493448-165555472878859&wsIPSercert=5cf413a95c09dead16a08f7e0f1f8a0f&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
-l
+https://s1.strea.ru/index_hd720/index.m3u8?rand=0.2870582436181539
