@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26430.m3u8
+https://nos.wjv-1.neo.id/cast/hls/1/stream.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 http://flipkart-b.multitvsolution.com/hls/moto/index.m3u8
