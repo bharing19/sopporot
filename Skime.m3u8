@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
+http://hls.mlive.la/live/ff1/index.m3u8?hls_upstream=129.227.42.15:18080&ssssessionid=2ab00144922074d5909b888b-25
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/24461.m3u8
