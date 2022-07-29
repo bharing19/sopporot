@@ -1,6 +1,7 @@
-#EXTM3U
+EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://iptvtree.net:8080/live/ce1eb8b3/fd28c06f6f/270.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0, https://nonton.site:8443/live/mustakim/mustakim/46417.ts
+#EXTINF:10.0, https://nonton.site:8443/live/mustakim/mustakim/46417.ts
+#EXTINF:10.0, https://nonton.site:8443/live/mustakim/mustakim/46417.ts
