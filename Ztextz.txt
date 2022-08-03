@@ -1,0 +1,1 @@
+{"drm_type":"Widevine","site_id":"MQDT","user_id":"62780907","cid":"event-1-dash-encrypted","token":"5kxkS2G+HlHRoagoP0aNwf1bYt10JeYJ2hBVz78ld2gBPrAEe9gCOoNnmuIIbFz0thJxYkhrhSYyhHjqKqloovgluGwiON3q27iAuKSAzqozRqZzziu39e/y0AXwyKfu","timestamp":"2022-08-03T14:21:06Z","hash":"mVk5Hr4iKGhH0GeFsFHn4uIjVcNYD4YZruzRRnsMcTc="}
