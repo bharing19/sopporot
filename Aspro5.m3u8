@@ -2,6 +2,9 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0, http://w.nasvpn.xyz:8080/best/best/3200
-#EXTINF:10.0, http://w.nasvpn.xyz:8080/best/best/3200
-#EXTINF:10.0, http://w.nasvpn.xyz:8080/best/best/3200
+#EXTINF:10.0, 
+http://w.nasvpn.xyz:8080/live/best/best/3200.ts
+#EXTINF:10.0, 
+http://w.nasvpn.xyz:8080/live/best/best/3200.ts
+#EXTINF:10.0, h
+ttp://w.nasvpn.xyz:8080/live/best/best/3200.ts
