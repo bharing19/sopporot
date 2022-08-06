@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://hls-pull-netmixtv.speedws.com/live/motto/playlist.m3u8
+https://tv4.calcio02.pw/live/moto.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 http://51.222.25.50:25461/live/bulltvn3w/appnew/3932.m3u8
