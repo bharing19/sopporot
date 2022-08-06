@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-TARGETDURATION:9100
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA-TYPE:m3u8
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:100000.0,
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115757
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/lokal/indosiar
