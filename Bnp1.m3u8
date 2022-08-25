@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://www.sansat.net:25461/live/romeofrance/romeo6442sn/60960.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1661456072~acl=/hls-p/ingest_6685_*/*~hmac=6b6e18cb040647938f2f0ba67b95d371706e8c90bd7f61584ff3143494819a6c/hls-p/ingest_6685_720p/index.m3u8
