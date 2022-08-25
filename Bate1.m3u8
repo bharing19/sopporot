@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-ALLOW-CACHE:YES
-#EXTINF:10.0,
-http://ipview.xyz:8080/david/david123/94134
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+https://etslive-2-vidio-com.akamaized.net/exp=1661456438~acl=/hls-p/ingest_6685_*/*~hmac=35a1a20a5fd7ee4004b8e7facab860e56bcabe26819d2183070a6d6b73c36346/hls-p/ingest_6685_720p/index.m3u8
