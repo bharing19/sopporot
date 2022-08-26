@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://etslive-2-vidio-com.akamaized.net/exp=1661528558~acl=/hls-p/ingest_6685_*/*~hmac=2ccbe800382e6a08c69a9d9cf3a77a3d3f6fd461fb7e3c2c9b9cc3766e5e90f2/hls-p/ingest_6685_720p/index.m3u8
+http://syok.tv:2082/live/071956/071956/9138.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 https://etslive-2-vidio-com.akamaized.net/exp=1661525096~acl=/hls-p/ingest_6685_*/*~hmac=e546b08db4fa84f4323216cae8f49ee7d5f517902265124aef733283099b866a/hls-p/ingest_6685_720p/index.m3u8
