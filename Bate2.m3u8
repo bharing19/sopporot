@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+http://quality-restream.com:8080/live/single-ed8969/6554d47b5f/273.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://tv3.calcio02.pw/live/moto.m3u8
