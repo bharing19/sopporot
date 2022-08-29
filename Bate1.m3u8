@@ -1,7 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-ALLOW-CACHE:YES
-#EXTINF:10.0,
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=128229&extension=ts&play_token=TQ6cftyhX8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/12822.m3u8
+
