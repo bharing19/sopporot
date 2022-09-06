@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111600.m3u8
+https://pull-hls-l11-sg01.ttlivecdn.com/game/stream-2993867250120523876.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000
-http://www.sansat.net:25461/live/romeofrance/romeo6442sn/60954.m3u8
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111600.m3u8
