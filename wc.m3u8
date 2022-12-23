@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://premiumnetworktv.tk/1000p/FIFA-World-Cup.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1671795010~acl=/hls-p/ingest_9304_*/*~hmac=10c1523ea1270d6b262d1eef38adfaf4c6bded1dd38b29a2643ba046e2d6daf5/hls-p/ingest_9304_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://premiumnetworktv.tk/850p/FIFA-World-Cup.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1671795190~acl=/hls-p/ingest_9304_*/*~hmac=9dcb327372b41f59a5b5c5e75b257971022d0adfaa77ac3ddbcde7d3f45bc2c2/hls-p/ingest_9304_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://premiumnetworktv.tk/640p/FIFA-World-Cup.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1671795190~acl=/hls-p/ingest_9304_*/*~hmac=9dcb327372b41f59a5b5c5e75b257971022d0adfaa77ac3ddbcde7d3f45bc2c2/hls-p/ingest_9304_360p/index.m3u8
+
